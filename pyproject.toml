@@ -5,7 +5,7 @@ description = "Default template for PDM package"
 authors = [
     {name = "Taein Kim", email = "sappho192@gmail.com"},
 ]
-dependencies = ["torch==2.6.0+cu126", "deeplake==3.9.18", "openai>=1.75.0", "transformers==4.41.2", "numpy>=1.24.1", "deepspeed==0.10.1", "bitsandbytes==0.41.1", "accelerate==0.31.0", "tqdm>=4.67.1", "neural-compressor==2.2.1", "onnx==1.14.1", "pandas>=2.2.3", "scipy>=1.15.2", "beautifulsoup4>=4.13.4", "requests>=2.32.3", "ipykernel>=6.29.5", "spacy>=3.8.5", "nltk>=3.9.1"]
+dependencies = ["torch==2.6.0+cu126", "deeplake==3.9.18", "openai>=1.75.0", "transformers==4.41.2", "numpy>=1.24.1", "deepspeed==0.10.1", "bitsandbytes==0.41.1", "accelerate==0.31.0", "tqdm>=4.67.1", "neural-compressor==2.2.1", "onnx==1.14.1", "pandas>=2.2.3", "scipy>=1.15.2", "beautifulsoup4>=4.13.4", "requests>=2.32.3", "ipykernel>=6.29.5", "spacy>=3.8.5", "nltk>=3.9.1", "markdown>=3.8", "sentence-transformers>=4.1.0"]
 requires-python = "==3.10.*"
 readme = "README.md"
 license = {text = "MIT"}
