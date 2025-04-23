@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 *_api_key.txt
+Chapter03/data
